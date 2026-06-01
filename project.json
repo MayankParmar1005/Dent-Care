@@ -1,0 +1,25 @@
+{
+  "overview": "A modern, professional dental clinic website for Dent Care in Ahmedabad. Features 7 pages including home, about, services, appointment booking, gallery, testimonials, and contact with a clean white+blue medical theme.",
+  "features": [
+    "Sticky header navigation with mobile menu",
+    "Hero section with clinic branding and CTA",
+    "6-service grid with icons and descriptions",
+    "Appointment booking form with WhatsApp option",
+    "Gallery with lightbox view",
+    "Patient testimonials with star ratings",
+    "Contact page with Google Maps integration",
+    "Floating WhatsApp button",
+    "Fully responsive mobile-first design",
+    "Fade-in scroll animations"
+  ],
+  "category": "healthcare",
+  "tags": [
+    "dental",
+    "clinic",
+    "healthcare",
+    "landing-page",
+    "appointments",
+    "responsive"
+  ],
+  "last_updated": "2026-04-08T09:02:33.011Z"
+}
