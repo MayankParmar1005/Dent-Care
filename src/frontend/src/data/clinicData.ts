@@ -10,8 +10,8 @@ export const CLINIC: ClinicInfo = {
   name: "Dent Care",
   tagline: "Your Smile, Our Passion — Expert Dental Care You Can Trust",
   address: "303, Apex Complex, Maninagar, Ahmedabad - 380022",
-  phone: "989800000",
-  whatsapp: "919898000000",
+  phone: "1234567890",
+  whatsapp: "911234567890",
   email: "dentcare@info.com",
   timings: [
     { day: "Monday – Friday", hours: "9:00 AM – 8:00 PM" },

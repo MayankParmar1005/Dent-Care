@@ -107,7 +107,7 @@ function TestimonialsPage() {
             and share your smile journey.
           </p>
           <a
-            href="https://wa.me/919898000000?text=Hello%2C%20I%20would%20like%20to%20share%20my%20feedback%20about%20Dent%20Care."
+            href="https://wa.me/911234567890?text=Hello%2C%20I%20would%20like%20to%20share%20my%20feedback%20about%20Dent%20Care."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-green-500 text-white font-medium hover:bg-green-600 transition-smooth shadow-medical"
